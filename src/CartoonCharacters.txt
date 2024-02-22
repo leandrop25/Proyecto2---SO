@@ -1,0 +1,186 @@
+Mordecai
+HP: 120
+Strength: 85
+Agility: 95
+Abilities: Golpe de Puño, Salto Alto
+
+Rigby
+HP: 110
+Strength: 80
+Agility: 100
+Abilities: Golpe Rápido, Esquive
+
+Benson
+HP: 130
+Strength: 90
+Agility: 85
+Abilities: Grito de Furia, Lanzamiento de Goma
+
+Skips
+HP: 150
+Strength: 100
+Agility: 80
+Abilities: Golpe de Fuerza, Salto Poderoso
+
+Pops
+HP: 100
+Strength: 70
+Agility: 90
+Abilities: Golpe de Sombrero, Vuelo de Mariposa
+
+Musculoso
+HP: 160
+Strength: 105
+Agility: 75
+Abilities: Golpe Musculoso, Grito de Guerra
+
+Fantasmín
+HP: 90
+Strength: 65
+Agility: 105
+Abilities: Golpe Fantasma, Desvanecimiento
+
+Thomas
+HP: 110
+Strength: 75
+Agility: 95
+Abilities: Golpe de Café, Carrera Rápida
+
+Margaret
+HP: 115
+Strength: 80
+Agility: 100
+Abilities: Golpe de Ala, Vuelo Rápido
+
+Eileen
+HP: 105
+Strength: 70
+Agility: 95
+Abilities: Golpe de Castor, Carrera de Castor
+
+Caballero
+HP: 100
+Strength: 80
+Agility: 70
+Abilities: Espada mágica, escudo reflector
+
+Caballero Extrahuevordinario
+HP: 120
+Strength: 90
+Agility: 60
+Abilities: Lanzamiento de huevos explosivos, grito de batalla
+
+Caballo de Fiesta
+HP: 80
+Strength: 70
+Agility: 85
+Abilities: Saltos acrobáticos, relincho intimidante
+
+Cadenero
+HP: 110
+Strength: 75
+Agility: 65
+Abilities: Control de multitudes, golpe de cadena
+
+Cajera de los Cheezers
+HP: 90
+Strength: 60
+Agility: 80
+Abilities: Escaneo rápido, manejo de caja registradora
+
+Cajero de Cometa
+HP: 95
+Strength: 70
+Agility: 75
+Abilities: Ataque con billetes, cambio exacto
+
+Calabaza Espantapájaros
+HP: 70
+Strength: 50
+Agility: 40
+Abilities: Asustar a los pájaros, lanzamiento de calabazas
+
+Camarógrafo
+HP: 80
+Strength: 55
+Agility: 90
+Abilities: Captura de momentos épicos, enfoque rápido
+
+Camarero de Extrahuevordinario
+HP: 100
+Strength: 70
+Agility: 75
+Abilities: Servicio de huevos a la mesa, equilibrio de bandeja
+
+Camionero de Fist Pump
+HP: 130
+Strength: 95
+Agility: 40
+Abilities: Puñetazos poderosos, manejo de camión
+
+Canguros Carl
+HP: 85
+Strength: 60
+Agility: 80
+Abilities: Saltos gigantes, patadas rápidas
+
+Carl Putter
+HP: 95
+Strength: 70
+Agility: 65
+Abilities: Golpe de palo de golf, precisión en el putt
+
+Carlocks
+HP: 110
+Strength: 80
+Agility: 70
+Abilities: Transformación en cerradura, abrir puertas secretas
+
+Cash Bankis
+HP: 120
+Strength: 90
+Agility: 50
+Abilities: Lluvia de monedas, inversión bancaria
+
+Cat Masterson
+HP: 100
+Strength: 75
+Agility: 65
+Abilities: Garra afilada, sigilo felino
+
+Cazacintas
+HP: 80
+Strength: 60
+Agility: 75
+Abilities: Enrollar objetos rápidamente, cortar cintas
+
+Cazador de Zombies
+HP: 110
+Strength: 85
+Agility: 70
+Abilities: Disparo certero, trampa para zombies
+
+Cazarrecompensas androide
+HP: 130
+Strength: 95
+Agility: 80
+Abilities: Rastreo avanzado, rayo láser
+
+Cazarrecompensas alienígena rojo
+HP: 120
+Strength: 90
+Agility: 75
+Abilities: Teletransportación, rayo desintegrador
+
+Celia
+HP: 90
+Strength: 65
+Agility: 70
+Abilities: Control de plantas, crecimiento rápido
+
+Centaurios
+HP: 140
+Strength: 100
+Agility: 60
+Abilities: Carga embestida, arco y flecha
+-----

@@ -1,0 +1,198 @@
+Aang
+HP: 100
+Strength: 80
+Agility: 180
+Abilities: Control de los cuatro elementos, dominio del estado Avatar
+
+Katara
+HP: 90
+Strength: 70
+Agility: 150
+Abilities: Maestría del agua, sanación
+
+Sokka
+HP: 80
+Strength: 65
+Agility: 75
+Abilities: Estrategia, habilidades con la espada
+
+Toph Beifong
+HP: 100
+Strength: 85
+Agility: 95
+Abilities: Control de la tierra, percepción sísmica
+
+Zuko
+HP: 95
+Strength: 80
+Agility: 175
+Abilities: Control del fuego, espada dual
+
+Iroh
+HP: 110
+Strength: 90
+Agility: 160
+Abilities: Sabiduría, dominio del té
+
+Azula
+HP: 90
+Strength: 75
+Agility: 95
+Abilities: Rayos de fuego, astucia táctica
+
+Mai
+HP: 80
+Strength: 70
+Agility: 80
+Abilities: Lanzamiento preciso de dagas, habilidades de combate
+
+Ty Lee
+HP: 85
+Strength: 60
+Agility: 95
+Abilities: Bloqueo de chi, acrobacias
+
+Suki
+HP: 90
+Strength: 75
+Agility: 85
+Abilities: Combate cuerpo a cuerpo, maestría de las abanicos
+
+Jet
+HP: 80
+Strength: 70
+Agility: 80
+Abilities: Lucha con ganchos, liderazgo
+
+Hakoda
+HP: 100
+Strength: 80
+Agility: 70
+Abilities: Estrategia militar, habilidades de navegación
+
+Gran Gran
+HP: 90
+Strength: 70
+Agility: 75
+Abilities: Conexión espiritual, sabiduría ancestral
+
+Bumi
+HP: 110
+Strength: 90
+Agility: 230
+Abilities: Control de la tierra sin movimiento, locura estratégica
+
+Piandao
+HP: 100
+Strength: 80
+Agility: 85
+Abilities: Maestría de la espada, enseñanza de artes marciales
+
+Zhao
+HP: 90
+Strength: 70
+Agility: 75
+Abilities: Estrategia militar, ambición desmedida
+
+Long Feng
+HP: 100
+Strength: 80
+Agility: 70
+Abilities: Control de la Ciudad Amurallada, manipulación política
+
+Combustion Man
+HP: 110
+Strength: 90
+Agility: 75
+Abilities: Disparo de explosiones, implacabilidad
+
+Pakku
+HP: 95
+Strength: 75
+Agility: 80
+Abilities: Maestría del agua, creación de hielo
+
+Jeong Jeong
+HP: 100
+Strength: 80
+Agility: 70
+Abilities: Control del fuego sin necesidad de luna, enseñanza de la disciplina
+
+Guru Pathik
+HP: 90
+Strength: 70
+Agility: 75
+Abilities: Desbloqueo de chakras, meditación
+
+Haru
+HP: 95
+Strength: 75
+Agility: 80
+Abilities: Control de la tierra, resistencia
+
+Pakku
+HP: 90
+Strength: 85
+Agility: 75
+Abilities: Dominio del agua, maestro de la lucha con espadas de agua
+
+Zhao
+HP: 80
+Strength: 75
+Agility: 70
+Abilities: Ambición, estrategia militar
+
+Guru Pathik
+HP: 95
+Strength: 80
+Agility: 70
+Abilities: Conexión espiritual, meditación profunda
+
+King Bumi
+HP: 100
+Strength: 90
+Agility: 75
+Abilities: Control de la tierra, estrategia excéntrica
+
+Hama
+HP: 85
+Strength: 80
+Agility: 70
+Abilities: Dominio de la sangre, creación de agua a partir de la humedad
+
+Combustion Man
+HP: 90
+Strength: 85
+Agility: 80
+Abilities: Control de la explosión, tercer ojo
+
+Pipsqueak
+HP: 80
+Strength: 75
+Agility: 70
+Abilities: Fuerza bruta, lealtad a los Guerreros Libertadore
+
+The Boulder
+HP: 90
+Strength: 90
+Agility: 70
+Abilities: Lucha en la arena, auto-referencia en tercera persona
+
+June
+HP: 85
+Strength: 80
+Agility: 85
+Abilities: Rastreo, manejo del látigo
+
+Smellerbee
+HP: 80
+Strength: 70
+Agility: 75
+Abilities: Arco y flecha, valentía
+
+Longshot
+HP: 80
+Strength: 70
+Agility: 80
+Abilities: Arco y flecha, habilidades de francotirador
+-----
